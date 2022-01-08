@@ -1,2 +1,2 @@
 # ShinySB
-This is a Discord SelfBot that will have limited features 
+A Discord SelfBot that will have limited features 
